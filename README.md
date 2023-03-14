@@ -1,2 +1,3 @@
 # HTML
-HTML
+HTML      
+Hypertext markup language   
